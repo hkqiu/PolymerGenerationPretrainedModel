@@ -28,4 +28,12 @@ If you find [this work](https://www.nature.com/articles/s41524-024-01466-5) help
 }
 ```
 
+```
+@article{qiu2025robust,
+  title={A Robust and Versatile Generative Model for Inverse Design of Polymers},
+  author={Qiu, Haoke and Huang, Haozhe and Yang, Hongli and Aspuru-Guzik, Al{\'a}n and Sun, Zhao-Yan},
+  year={2025},
+  publisher={ChemRxiv}
+}
+```
 Welcome to access our model and provide your suggestions！
